@@ -697,4 +697,4 @@ nftset=/woman.ru/4#inet#fw4#vpn_domains
 nftset=/tmdb.org/4#inet#fw4#vpn_domains
 nftset=/state.gov/4#inet#fw4#vpn_domains
 nftset=/signal.org/4#inet#fw4#vpn_domains
-
+nftset=/pega.com/4#inet#fw4#vpn_domains
