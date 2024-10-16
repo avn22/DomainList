@@ -719,3 +719,7 @@ nftset=/discord-activities.com/4#inet#fw4#vpn_domains
 nftset=/discordactivities.com/4#inet#fw4#vpn_domains
 nftset=/discordsays.com/4#inet#fw4#vpn_domains
 nftset=/discordstatus.com/4#inet#fw4#vpn_domains
+nftset=/elements.envato.com/4#inet#fw4#vpn_domains
+nftset=/cdn.cookielaw.org/4#inet#fw4#vpn_domains
+nftset=/media.themoviedb.org/4#inet#fw4#vpn_domains
+
